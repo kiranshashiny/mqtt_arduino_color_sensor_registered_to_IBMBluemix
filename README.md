@@ -1,16 +1,16 @@
-###  This repo is to publish the Color Sensor data to the IBM Bluemix.
+###  Publishing the Color Sensor data to the IBM Bluemix from the Arduino Uno Microcontroller
 
-This repo is about connecting the Color Sensor ( TCS3200 ) to the Arduino IDE and publishing the data
-to the IBM Bluemix IoT Watson platform.
+This blog is about connecting the Color Sensor (TCS3200) to the Arduino IDE and publishing the data to the IBM Bluemix IoT Watson platform.
 
-The Color sensor is a small device capable of detecting Red, Green and Blue color and other shades as well.
-This device can be programmed from the Arduino IDE . Code is in this repository.
+The Color sensor is a small hardware programmable device capable of detecting Red, Green, Blue color and other shades as well.
+
+This device can be programmed from the Arduino IDE or any other microcontroller.
 
 To connect the device to the Arduino IDE:
-TCS3200   Arduino Uno
-=====================
+
+###### Pin connections from Color Sensor to Arduino:
 Connect the
-S0,S1, S2 and S3 to Pin 4, 5,6 and 7.
+S0,S1, S2 and S3 of Color sensor to Pin 4, 5,6 and 7.
 OUT pin to Pin 8
 LED and Vcc to Vcc of the Arduino.
 
