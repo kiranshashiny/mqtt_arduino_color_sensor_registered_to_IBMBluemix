@@ -29,3 +29,6 @@ To start the visualization app :  node app.js
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/18639732/ae4d80d8-7eb2-11e6-8a44-e092f57fc7aa.png)
 
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/18639747/ba24fb7a-7eb2-11e6-9675-dba745eb2128.png)
+![alt tag](https://cloud.githubusercontent.com/assets/14288989/18658837/db967a1a-7f23-11e6-8bff-104dfcdd7fe6.jpg)
+![alt tag](https://cloud.githubusercontent.com/assets/14288989/18658841/e5c46fa6-7f23-11e6-8856-7a4b7c3be972.jpg)
+
